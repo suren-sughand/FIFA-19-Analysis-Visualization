@@ -1,0 +1,2 @@
+*.rmd linguist-detectable=false
+*.r linguist-detectable=true
